@@ -20,10 +20,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-MODEL_PATH = (
-    "/content/drive/MyDrive/Road_Pothole_Detection/"
-    "best.pt"
-)
+MODEL_PATH = "best.pt"
 
 
 # ==========================================
